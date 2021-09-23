@@ -1,0 +1,97 @@
+BODY  {
+    backgroundcolor: #f8f8f8;
+    margin-left: 0;
+    margin-top: 0; 
+    margin-width: 0;
+    margin-height: 0;
+    margin-right: 0;
+   }
+
+P   {
+font-family:"Times New Roman";
+font-size: middle;
+font-weight: normal;
+margin-left:0.1in;
+margin-right:0.08in;
+}
+
+.cdiv      {
+       font-family: Arial;
+       font-size: 150%;
+       line-height: 80%;
+       text-align: center;
+       font-weight: bold;
+       vertical-align: bottom;
+       color: #336666;
+       text-decoration: none
+      }
+
+.cont  {
+ font-family: Arial;
+ font-size: middle;
+ font-weight: bold;
+ text-align: center;
+ margin-bottom: 2;  
+ vertical-align: middle;
+ color: #666666;
+ text-decoration:none
+}
+
+.right {
+ text-align: right
+}
+
+.sumdiv {
+       font-family: Tahoma;
+       font-size: large;
+       text-align: left;
+       vertical-align: top;
+       color: black;
+       text-decoration: none
+      }
+
+.title    { 
+    font-family: "Arial"; 
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    margin-top:15; 
+    vertical-align: bottom;
+    color: #333333;
+    text-decoration: none
+ }
+
+.nav {       
+      font-family: Arial;
+      font-size:14px;
+      color: #f8f8f8;
+      text-align: center;
+      text-decoration: none
+ }
+
+.navbottom {
+            font-family:Tahoma;
+            font-size:11px;
+            color: #666666;
+            text-align: center;
+            text-decoration: none}
+.navc {       
+  font-family: Arial;
+  font-size:12px;
+  color: #f8f8f8;
+  text-align: center;
+  text-decoration: none
+ }
+
+
+
+.sumct  {  
+       font-family: Arial;
+       font-size: 14px;
+       line-height: 200%;
+       font-weight: bold;
+       margin-left:0.1in;
+       margin-right: 0.08in;
+       color: #666633;
+       text-decoration: none
+    }
